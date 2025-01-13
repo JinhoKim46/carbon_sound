@@ -1,8 +1,8 @@
 {
-  "account": "ckddms1224",
+  "account": "***",
   "__account": "Gmail account without @gmail.com",
 
-  "password": "gsejlovakuzxntjk",
+  "password": "***",
   "__password": "App password for Gmail",
 
   "sound_interval": 1,
@@ -14,9 +14,9 @@
   "label_name": "test",
   "__label_name": "Label name in the gmail",
 
-  "source_path": "C:\\Users\\z0048drc\\Desktop\\cabon_sound\\sources",
+  "source_path": "PATH/TO/SOURCE",
   "__source_path": "Path where source files are saved",
 
-  "save_path": "C:\\Users\\z0048drc\\Desktop\\cabon_sound",
+  "save_path": "PATH/TO/SAVE",
   "__save_path": "Path where output sound will be saved"
 }
